@@ -1,0 +1,44 @@
+body {
+    width: 960px;
+    
+}
+
+a{
+    text-decoration: none;
+    color: black
+}
+
+footer {
+    color: #106050;
+}
+ul.nav{
+    margin: 0;
+    padding: 0;
+}
+ul{
+    list-style: none
+}
+li{
+    
+	border:1px solid black;
+	width:6.0em;
+	background:#f1f1f1;
+	color:#333;
+	text-align:inline-block;
+	padding:0  0.2em 0.2em  0;
+	text-decoration:none;
+}
+ul a:hover{
+    background: azure;
+    color: red;
+    border-color:#00f;
+}
+img{
+    width: 200px;
+    height: 200px;
+    
+}
+body{
+    background-color: azure;
+    text-align: center;
+}
